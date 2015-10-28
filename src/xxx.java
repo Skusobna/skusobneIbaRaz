@@ -10,7 +10,7 @@
  */
 public class xxx {
     public int ahoj(){
-        System.out.println("Ahoj");
+        System.out.println("Ahoj svet");
         return 0;
     }
 }
