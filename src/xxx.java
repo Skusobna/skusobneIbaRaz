@@ -9,5 +9,8 @@
  * @author xpodhorecs
  */
 public class xxx {
-    
+    public int ahoj(){
+        System.out.println("Ahoj svet");
+        return 0;
+    }
 }
